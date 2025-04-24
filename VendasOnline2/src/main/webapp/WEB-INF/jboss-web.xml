@@ -6,3 +6,4 @@
       http://www.jboss.org/j2ee/schema/jboss-web_5_1.xsd">
    <context-root>/VendasOnline2</context-root>
 </jboss-web>
+
